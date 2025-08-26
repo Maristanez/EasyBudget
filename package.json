@@ -1,0 +1,21 @@
+{
+  "name": "easybudget-1",
+  "version": "1.0.0",
+  "description": "A secure, full-stack web application that allows users to track and categorize their daily expenses. Users can sign up, log in, add, edit, and delete expenses, and view summaries by category or date. Built with React, Node.js/Express, and MongoDB, the app emphasizes usability, data security, and responsive design.",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maristanez/EasyBudget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Maristanez/EasyBudget/issues"
+  },
+  "homepage": "https://github.com/Maristanez/EasyBudget#readme"
+}
